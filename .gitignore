@@ -1,0 +1,12 @@
+# Git installer kept in this folder, not part of the project
+Git-*.exe
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Editors
+.vscode/
+.idea/
+*.swp
